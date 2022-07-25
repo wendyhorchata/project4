@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>Quiz Details</h1>
+
+<div class="card">
+  <div class="card-content">
+    <span class="card-title"></span>
+      <p>Question: {{ quiz.question }}</p>
+      <p>op1: {{ quiz.op1 }}</p>
+      <p>opt:2 {{ quiz.op2 }}</p>
+      <p>opt:3 {{ quiz.op3 }}</p>
+      <p>opt:4 {{ quiz.op4 }}</p>
+  </div>
+</div>
+
+{% endblock %}
