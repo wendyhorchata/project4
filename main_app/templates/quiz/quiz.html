@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<h1>Javascript Quiz</h1>
+<h1>Python Quiz</h1>
 <a href="{% url 'question_add' %}">Add Question</a>
 <form action="{% url 'quiz_results' %}" method="post">
  {% csrf_token %}
@@ -44,7 +44,7 @@
       <!-- </a> -->
   </div>
 {% endfor %}
-
+<br>
   <button type="submit" class="btn btn-primary">Submit Quiz</button>
 </form>
 
