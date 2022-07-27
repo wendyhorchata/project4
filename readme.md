@@ -16,7 +16,6 @@ https://trello.com/b/tARVbbTF/seir-prep-project-4
 
 
 ## Wireframe 
-[!WireFrame](./images/website.png)
 [!WireFrame](./images/Database ER diagram (crow's foot).jpeg)
 
 
