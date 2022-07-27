@@ -13,8 +13,12 @@
 ## TRELLO 
 https://trello.com/b/tARVbbTF/seir-prep-project-4
 
-## ER Diagram 
-[!ER Diagram](./images/Database ER Diagram)
+
+
+## Wireframe 
+[!WireFrame](./images/website.png)
+[!WireFrame](./images/Database ER diagram (crow's foot).jpeg)
+
 
 ## Website 
 https://python-quiz-project-4.herokuapp.com/
